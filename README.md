@@ -12,7 +12,7 @@ The following steps constitute your assignment :
 1. **Create one public repository** for each project, with a complete and personalized readme file and repository's description ;
 1. **Commit** `at least 3 times for each repository` while including simple and clear commit's messages, and **push**;
 1. **Fill** the table in the `Recap Table` section with the details of your created repositories.
-1. Finally, **commit** with the message `My 3 repositories has been created`, then **push your commit**.
+1. Finally, **commit** with the message `My three repositories has been created`, then **push your commit**.
 
 ## Recap Table
 The below table must contain the details of the repositories you will create, fill it please.
@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  eliere-individual-project             |  project1             | https://github.com/ELIERE12/eliere-individual-project       |
+| 2 |  group8_Eliere-week7-peer-project            | project2            | https://github.com/ELIERE12/group8_Eliere-week7-peer-project       |
+| 3 |  week5peerproject             |  project3             | https://github.com/ELIERE12/week5peerproject     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
